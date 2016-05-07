@@ -3,8 +3,6 @@ package hackerrank;
 import java.util.Scanner;
 
 public class CorrectnessInvariant {
-
-	
 	
 	static void printArray(int[] ar) {
         for(int n: ar){
